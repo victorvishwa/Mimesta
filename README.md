@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/posts/your-link-to-demo"><img src="https://img.shields.io/badge/Demo-Watch%20Now-blue?style=for-the-badge&logo=linkedin" alt="Demo Video"/></a>
-  <a href="https://github.com/vishwab07/ImageGenHub"><img src="https://img.shields.io/github/stars/vishwab07/ImageGenHub?style=for-the-badge" alt="Stars"/></a>
 </p>
 
 ---
