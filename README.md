@@ -16,7 +16,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://your-image-link.com/preview.png" width="700" alt="Mimesta UI Preview"/>
+  <img src="Screenshot 2025-06-16 201921.png" width="700" alt="Mimesta UI Preview"/>
   <br/>
   <i>*Modern, mobile-friendly interface with live meme rendering*</i>
 </p>
